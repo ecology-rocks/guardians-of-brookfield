@@ -1,3 +1,3 @@
 # SUMMARY
 
-* [Chapter 1: Prologue](chapter1.md)
+* [Chapter 1: Prologue](content/chapter1.md)
