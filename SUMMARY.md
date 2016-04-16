@@ -1,7 +1,7 @@
 # Guardians of Brookfield
 _By Sam Sarson_
 
-* [Chapter 1: Prologue](content/chapter1.md)
+* [Chapter 1: Prologue](chapter1.md)
 * [Chapter 2: Councilors](content/chapter2.txt)
 * [Chapter 3: Following The Trail](content/chapter3.txt)
 * [Chapter 4: Conflicts](content/chapter4.txt)
