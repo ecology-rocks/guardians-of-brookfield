@@ -8,3 +8,4 @@
 * [Chapter 6: The Tapes](manuscript/chapter6.md)
 * [Chapter 7: Haunted Dreams](manuscript/chapter7.md)
 * [Chapter 8: The Search](manuscript/chapter8.md)
+
